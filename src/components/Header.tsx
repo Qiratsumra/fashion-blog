@@ -17,9 +17,9 @@ interface Data{
 
 const LinksData:Data[] =[
     { name:'Home', path:'/' },
-    { name:'Product', path:'http://localhost:3000/components/products'},
+    { name:'Product', path:'/components/products'},
     {name:"Blog", path:"/" },
-    {name:"Contact", path:"http://localhost:3000/components/contact" },    
+    {name:"Contact", path:"/components/contact" },    
 
 ]
 
