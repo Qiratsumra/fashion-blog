@@ -8,7 +8,7 @@ import { FaInstagram } from "react-icons/fa6";
 
 export default function page() {
   return (
-    <div className="bg-white">
+    <div className="bg-white my-7">
     <div className="grid sm:grid-cols-2 items-start gap-16 p-4 mx-auto max-w-4xl  font-[sans-serif]">
     <div>
         <h1 className="text-pink-600 text-3xl font-extrabold">Let's Talk</h1>
